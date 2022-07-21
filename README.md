@@ -55,9 +55,8 @@
 ![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dark&count_private=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&theme=dark" alt="thesanjithkumar" /></p>
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=thsanjithkumar&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/thsanjihtkumar)
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&theme=dark)](https://github.com/thesanjithkumar)
+  
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=dark&layout=compact)](https://github.com/thesanjithkumar)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=dark)](https://github.com/thesanjithkumar/react-clone-hennacrafts)

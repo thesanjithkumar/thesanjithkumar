@@ -32,6 +32,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=squarelogo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)

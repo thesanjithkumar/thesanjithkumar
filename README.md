@@ -54,13 +54,13 @@
 
 ![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&theme=dark" alt="thesanjithkumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&theme=dark&hide_border=true" alt="thesanjithkumar" /></p>
 
 [![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&theme=react-dark&area=true&hide_border=true)](https://github.com/thesanjithkumar)  
  
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-[![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=dark&layout=compact)](https://github.com/thesanjithkumar)
+[![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=dark&layout=compact&hide_border=true)](https://github.com/thesanjithkumar)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=dark)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=React-Quiz-typescript&show_icons=true&theme=dark)](https://github.com/thesanjithkumar/React-Quiz-Typescript)

@@ -56,8 +56,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&theme=onedark&hide_border=true" alt="thesanjithkumar" /></p>
 
-[![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=151515&color=e4e2e2&line=79fe96&point=e4e4e4&area=true&area_color=fad39d&hide_border=true)](https://github.com/thesanjithkumar)  
+<!-- [![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=151515&color=e4e2e2&line=79fe96&point=e4e4e4&area=true&area_color=fad39d&hide_border=true)](https://github.com/thesanjithkumar)  
+  -->
+ [![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar)  
  
+  
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=dark&layout=compact&hide_border=true)](https://github.com/thesanjithkumar)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=dark)](https://github.com/thesanjithkumar/react-clone-hennacrafts)

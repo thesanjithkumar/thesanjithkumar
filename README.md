@@ -56,7 +56,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&theme=dracula" alt="thesanjithkumar" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&langs_count=10&layout=compact&theme=dracula)](https://github.com/thesanjithkumar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&langs_count=10&layout=compact&theme=dark)](https://github.com/thesanjithkumar)
 
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=dracula&layout=compact)](https://github.com/thesanjithkumar)
 

@@ -55,8 +55,6 @@
 ![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dark&count_private=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&theme=dark" alt="thesanjithkumar" /></p>
-<p color="black"><img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=6&rank=SSS,SS,S,AAA,AA,A"></p>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&langs_count=10&layout=compact&theme=dark)](https://github.com/thesanjithkumar)
 
@@ -65,6 +63,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=dark)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=React-Quiz-typescript&show_icons=true&theme=dark)](https://github.com/thesanjithkumar/React-Quiz-Typescript)
 
+<p color="black"><img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=6&rank=SSS,SS,S,AAA,AA,A"></p>
 <!-- ![Progress Bar CI](https://github.com/thesanjithkumar/thsanjithkumar/workflows/Progress%20Bar%20CI/badge.svg) -->
 
 

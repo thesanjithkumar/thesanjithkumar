@@ -52,7 +52,7 @@
 ![Jinja](https://img.shields.io/badge/jinja-black?style=flat-square&logo=jinja)
 ![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css)
 
-![Sanjith's GitHub stats (https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/thesanjithkumar)
+[![Sanjith's GitHub stats] (https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/thesanjithkumar)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&theme=dark&hide_border=true" alt="thesanjithkumar" /></p>(https://github.com/thesanjithkumar)
 

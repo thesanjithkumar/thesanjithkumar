@@ -1,5 +1,5 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 👋 Hi, I’m Sanjith Kumar
 - 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning AI/ML

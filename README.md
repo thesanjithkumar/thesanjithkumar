@@ -13,7 +13,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/ddf14465-c881-4ebe-ba15-7d5f683686e4.svg)](https://wakatime.com/@ddf14465-c881-4ebe-ba15-7d5f683686e4)
 
-![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dracula)
+![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dracula&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&langs_count=10&layout=compact&theme=dracula)](https://github.com/thesanjithkumar)
 

@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on web Development 
--📫 How to reach me ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:sanjithkumar048@gmail.com?subject=subject&cc=cc@example.com)
+-📫 How to reach me ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!---<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>

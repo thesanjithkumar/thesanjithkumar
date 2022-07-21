@@ -1,4 +1,4 @@
--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> 
 
 - 👋 Hi, I’m Sanjith Kumar
 - 👀 I’m interested in Web development and Machine Learning
@@ -51,6 +51,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&langs_count=10&layout=compact&theme=dracula)](https://github.com/thesanjithkumar)
 
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=dracula&layout=compact)](https://github.com/thesanjithkumar)
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=dracula)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=React-Quiz-typescript&show_icons=true&theme=dracula)](https://github.com/thesanjithkumar/React-Quiz-Typescript)

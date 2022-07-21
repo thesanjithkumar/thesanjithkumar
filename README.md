@@ -55,7 +55,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=dracula)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=React-Quiz-typescript&show_icons=true&theme=dracula)](https://github.com/thesanjithkumar/React-Quiz-Typescript)
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+![Progress Bar CI](https://github.com/thesanjithkumar/thsanjithkumar/workflows/Progress%20Bar%20CI/badge.svg)
 
 
 <!---

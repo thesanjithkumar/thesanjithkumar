@@ -1,3 +1,6 @@
+<p align="center"><a href="https://gihtub.com/thesanjithkumar"><img width="80%" alt="Hello, I'm Sanjith. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<br />
+
 - 👋 Hi, I’m @thesanjithkumar
 - 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning AI/ML

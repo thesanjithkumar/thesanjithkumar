@@ -58,7 +58,7 @@
 
 [![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&theme=react-dark&area=true&hide_border=true)](https://github.com/thesanjithkumar)  
  
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=151515&color=e4e2e2&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=dark&layout=compact&hide_border=true)](https://github.com/thesanjithkumar)
 

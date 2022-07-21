@@ -35,7 +35,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
-![Reactjs](https://img.shields.io/badge/-Reactjs-black?style=flat-square&logo=ReactJs)
+![Reactjs](https://img.shields.io/badge/-ReactJs-black?style=flat-square&logo=ReactJs)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 
 ![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dracula&count_private=true)

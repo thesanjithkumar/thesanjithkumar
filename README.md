@@ -52,7 +52,7 @@
 
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=dracula&layout=compact)](https://github.com/thesanjithkumar)
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=thesanjithkumar&hide_title=false&hide_border=false&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=sanjithkumar&hide_title=false&hide_border=false&langs_count=5)
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 

@@ -56,7 +56,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&theme=dark&hide_border=true" alt="thesanjithkumar" /></p>
 
-[![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&theme=react-dark&area=true&hide_border=true)](https://github.com/thesanjithkumar)  
+[![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=151515&color=e4e2e2&line=79fe96&point=e4e4e4&area=true&area_color=fad39d&hide_border=true)](https://github.com/thesanjithkumar)  
  
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=151515&color=e4e2e2&line=79fe96&point=e4e4e4&area=true&area_color=fad39d&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   

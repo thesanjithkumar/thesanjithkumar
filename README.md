@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thesanjithkumar
+- 👋 Hi, I’m Sanjith Kumar
 - 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on web Development
@@ -8,7 +8,7 @@
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <br>
-#
+
 [![wakatime](https://wakatime.com/badge/user/ddf14465-c881-4ebe-ba15-7d5f683686e4.svg)](https://wakatime.com/@ddf14465-c881-4ebe-ba15-7d5f683686e4)
 # 
 ![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dracula)

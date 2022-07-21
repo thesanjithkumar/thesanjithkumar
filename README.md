@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on web Development
 - 📫 How to reach me 
 
+[![wakatime](https://wakatime.com/badge/user/ddf14465-c881-4ebe-ba15-7d5f683686e4.svg)](https://wakatime.com/@ddf14465-c881-4ebe-ba15-7d5f683686e4)
 ![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&langs_count=10&layout=compact&theme=radical)](https://github.com/thesanjithkumar)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar)](https://github.com/thesanjithkumar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=radical)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=React-Quiz-typescript&show_icons=true&theme=radical)](https://github.com/thesanjithkumar/React-Quiz-Typescript)
 

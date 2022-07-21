@@ -57,14 +57,15 @@
 <a href="https://github.com/thesanjithkumar"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&theme=dark&hide_border=true" alt="thesanjithkumar" /></p></a>
 
 [![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=151515&color=e4e2e2&line=79fe96&point=e4e4e4&area=true&area_color=fad39d&hide_border=true)](https://github.com/thesanjithkumar)  
- 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=dark&layout=compact&hide_border=true)](https://github.com/thesanjithkumar)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=dark&hide_border=true)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=Site-For-Web-Developing&show_icons=true&theme=dark&hide_border=true)](https://github.com/thesanjithkumar/Site-For-Web-Developing)
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=6&rank=SSS,SS,S,AAA,AA,A&theme=dark"> -->
+<img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=6&rank=SSS,SS,S,AAA,AA,A&theme=dark">
 <!-- ![Progress Bar CI](https://github.com/thesanjithkumar/thsanjithkumar/workflows/Progress%20Bar%20CI/badge.svg) -->
 
 

@@ -6,8 +6,8 @@
 
 ![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=React-Quiz_typescript)](https://github.com/thesanjithkumar/React-Quiz-Typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=radical)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=React-Quiz-typescript&show_icons=true&theme=radical)](https://github.com/thesanjithkumar/React-Quiz-Typescript)
 
 
 <!---

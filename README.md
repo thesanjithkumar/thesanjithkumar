@@ -36,7 +36,8 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ![Reactjs](https://img.shields.io/badge/-ReactJs-black?logo=react)
-![TypeScript](https://img.shields.io/badge/Django-black?logo=django)
+![Django](https://img.shields.io/badge/Django-black?logo=django)
+![Django](https://img.shields.io/badge/TailWind_CSS-black?logo=tailwind)
 
 ![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&show_icons=true&theme=dracula&count_private=true)
 

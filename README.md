@@ -67,6 +67,8 @@
 [![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=282c34&color=fad39d&line=8db472&point=e4e4e4&area=true&area_color=df6C72&hide_border=true)](https://github.com/thesanjithkumar)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&layout=compact&theme=onedark&hide_border=true&langs_count=10)](https://github.com/thesanjithkumar)  
+ 
+     <a href="https://github.com/AmardeepKesharwani"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=tokyonight&hide_border=true"  width="520" alt="Sanjith Kumar"/></a>
 
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&layout=compact&hide_border=true)](https://github.com/thesanjithkumar)
 

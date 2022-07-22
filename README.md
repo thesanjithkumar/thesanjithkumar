@@ -70,7 +70,7 @@
  
 <!-- [![Sanjith's github summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=tokyonight&hide_border=true)](https://github.com/thesanjithkumar) -->
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=onedark&hide_border=true"  width="500" alt="Sanjith Kumar"/>
+<!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=onedark&hide_border=true"  width="500" alt="Sanjith Kumar"/> -->
 
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&layout=compact&hide_border=true)](https://github.com/thesanjithkumar)
 

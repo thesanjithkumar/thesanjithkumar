@@ -36,7 +36,7 @@
 <br>
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
   
-## <img src="./assets/code.gif" width="4%">My Stats
+## <img src="./assets/code.gif" width="25"> My Stats
 
 <div align="center">
   

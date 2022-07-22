@@ -88,7 +88,7 @@
 
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=100"/>
 
- ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Sanjith&color=gradient)
+ ![reversal](https://capsule-render.vercel.app/api?type=wave&text=Sanjith&color=gradient)
 
 
  </div>

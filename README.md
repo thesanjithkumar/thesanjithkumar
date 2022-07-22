@@ -81,7 +81,8 @@
   
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=4&color=black&rank=S,SS,SSS,A,AA,AAA"> -->
 <!-- ![Progress Bar CI](https://github.com/thesanjithkumar/thsanjithkumar/workflows/Progress%20Bar%20CI/badge.svg) -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=10&width=100"/>
+
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&width=100"/>
 
  </div>
 

@@ -84,4 +84,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
   <script src='./assets/script.js'>
+    <br>
   </script>

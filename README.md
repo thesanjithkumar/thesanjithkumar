@@ -67,11 +67,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=dark&hide_border=true)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=Site-For-Web-Developing&show_icons=true&theme=dark&hide_border=true)](https://github.com/thesanjithkumar/Site-For-Web-Developing)
 
-<p align="center"> 
+<!-- <p align="center">  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark&column=3&align=center)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark&column=3&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
-</p>
+<!-- </p> -->
   
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=4&color=black&rank=S,SS,SSS,A,AA,AAA"> -->
 <!-- ![Progress Bar CI](https://github.com/thesanjithkumar/thsanjithkumar/workflows/Progress%20Bar%20CI/badge.svg) -->

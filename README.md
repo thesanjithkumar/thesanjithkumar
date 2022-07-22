@@ -32,6 +32,7 @@
   
 ## My Stats
 
+<div align="center">
 [![wakatime](https://wakatime.com/badge/user/ddf14465-c881-4ebe-ba15-7d5f683686e4.svg)](https://wakatime.com/@ddf14465-c881-4ebe-ba15-7d5f683686e4)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=53137451d&left_color=gray&right_color=blue)
 
@@ -67,7 +68,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=6&rank=SSS,SS,S,AAA,AA,A&theme=dark">
 <!-- ![Progress Bar CI](https://github.com/thesanjithkumar/thsanjithkumar/workflows/Progress%20Bar%20CI/badge.svg) -->
-
+</div>
 
 <!---
 thesanjithkumar/thesanjithkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -69,7 +69,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=4&color=black">
+<img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=4&color=black&rank=S,SS,SSS,A,AA,AAA">
 <!-- ![Progress Bar CI](https://github.com/thesanjithkumar/thsanjithkumar/workflows/Progress%20Bar%20CI/badge.svg) -->
 </div>
 

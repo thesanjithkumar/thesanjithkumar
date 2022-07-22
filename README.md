@@ -2,9 +2,11 @@
 
 <img align='right' src='./assets/ohh.gif' width='380' margin='100' > 
 
-<!-- <h1 align="center">👋 Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1> -->
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
+<!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
+ -->
+ <h1 align="center"><img src="./assets/Hi.gif" width="4%"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
 
+ 
 - 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on web Development 

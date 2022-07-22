@@ -69,7 +69,7 @@
 
 <!-- <p align="center">  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark&column=3&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- </p> -->
   

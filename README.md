@@ -88,7 +88,7 @@
 
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=100"/>
 
- ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+ ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&desc=Use%20theme&descAlign=60&descAlignY=50&color=gradient)
 
 
  </div>

@@ -82,6 +82,7 @@
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=4&color=black&rank=S,SS,SSS,A,AA,AAA"> -->
 <!-- ![Progress Bar CI](https://github.com/thesanjithkumar/thsanjithkumar/workflows/Progress%20Bar%20CI/badge.svg) -->
 </div>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 
 <!---
 thesanjithkumar/thesanjithkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

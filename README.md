@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> 
 
-<h1 align="center">👋 Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/" style="font-size:50px;">Sanjith Kumar</a></h1>
+<h1 align="center" text-decoration="none">👋 Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
 
 - 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning AI/ML

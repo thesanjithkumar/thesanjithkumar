@@ -59,6 +59,7 @@
 ![Django](https://img.shields.io/badge/Django-black?logo=django)
 ![Jinja](https://img.shields.io/badge/jinja-black?style=flat-square&logo=jinja)
 ![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel)
 
 [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar)
 

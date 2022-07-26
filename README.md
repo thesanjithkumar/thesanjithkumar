@@ -60,6 +60,7 @@
 ![Jinja](https://img.shields.io/badge/jinja-black?style=flat-square&logo=jinja)
 ![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css)
 ![Vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar)
 

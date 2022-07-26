@@ -62,8 +62,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-[![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar)
+<!-- [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar) -->
 
+ [![Sanjith's GitHub stats](https://sanjith-github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar)
+ 
 <!-- <a href="https://github.com/thesanjithkumar"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" alt="thesanjithkumar" /></p></a> -->
  
  [![GitHub Streak](https://sanjith-github-readme-streak.herokuapp.com?user=thesanjithkumar&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

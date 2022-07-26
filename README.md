@@ -56,11 +56,12 @@
 ![Next JS](https://img.shields.io/badge/NextJs-black?style=flas-square&logo=next.js)
 ![HTML 5](https://img.shields.io/badge/HTML5-black?logo=html5)
 ![CSS 3](https://img.shields.io/badge/CSS3-black?logo=css3)
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=fat-square&logo=bootstrap)
 ![Django](https://img.shields.io/badge/Django-black?logo=django)
 ![Jinja](https://img.shields.io/badge/jinja-black?style=flat-square&logo=jinja)
 ![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css)
 ![Vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-black?style=flat-square&logo=netlify)
 
 <!-- [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar) -->
 

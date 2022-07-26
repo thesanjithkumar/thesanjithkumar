@@ -63,7 +63,7 @@
 [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar)
 
 <a href="https://github.com/thesanjithkumar"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" alt="thesanjithkumar" /></p></a>
-
+ 
 [![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=282c34&color=fad39d&line=8db472&point=e4e4e4&area=true&area_color=df6C72&hide_border=true)](https://github.com/thesanjithkumar)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&layout=compact&theme=onedark&hide_border=true&langs_count=10)](https://github.com/thesanjithkumar)  

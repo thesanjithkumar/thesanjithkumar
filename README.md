@@ -49,6 +49,7 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)

@@ -15,5 +15,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_KEY }}
           GH_TOKEN: ${{ secrets.G_ACCESS_TOKEN }}
           SHOW_LINES_OF_CODE: True
-          SHOW_TOTAL_CODE_TIME: True
-          SHOW_PROFILE_VIEWS: True

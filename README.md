@@ -58,7 +58,7 @@
 ![CSS 3](https://img.shields.io/badge/CSS3-black?logo=css3)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=fat-square&logo=bootstrap)
 ![Django](https://img.shields.io/badge/Django-black?logo=django)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-black?style=flat-square&logo=django)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST?style=flat-square&logo=django)
 ![Jinja](https://img.shields.io/badge/jinja-black?style=flat-square&logo=jinja)
 ![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwind-css)
 ![Vercel](https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel)

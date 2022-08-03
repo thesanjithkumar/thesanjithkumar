@@ -4,7 +4,7 @@
 
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
  -->
- <h1 align="center" margin="auto"><img src="./assets/sunglasses.gif" width="40" margin="10"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
+ <h1 align="center" margin="auto"><img src="./assets/sunglasses.gif" width="40" margin="-10"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
 
  
 - 👀 I’m interested in Web development and Machine Learning

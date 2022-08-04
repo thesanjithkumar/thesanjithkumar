@@ -86,6 +86,9 @@
 
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&layout=compact&hide_border=true)](https://github.com/thesanjithkumar)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=Site-For-Web-Developing&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar/Site-For-Web-Developing)
 

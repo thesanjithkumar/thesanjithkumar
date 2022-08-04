@@ -84,7 +84,7 @@
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=onedark&hide_border=true"  width="500" alt="Sanjith Kumar"/> -->
 
-[![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar)
+[![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&layout=compact&hide_border=true)](https://github.com/thesanjithkumar)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=Site-For-Web-Developing&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar/Site-For-Web-Developing)

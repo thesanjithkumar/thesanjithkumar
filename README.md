@@ -38,7 +38,7 @@
   
 ## <img src="./assets/code.gif" width="30"> My Stats
 
-<div align="left">
+<div align="center">
  
 
 <!--START_SECTION:waka-->
@@ -88,18 +88,18 @@
  
 <!--   Activity graph working one-->
  
-<!--  [![Sanjith's github activity graph](https://sanjith-github-activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=282c34&color=fad39d&line=8db472&point=e4e4e4&area=true&area_color=df6C72)](https://github.com/thesanjithkumar) -->
+ [![Sanjith's github activity graph](https://sanjith-github-activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=282c34&color=fad39d&line=8db472&point=e4e4e4&area=true&area_color=df6C72)](https://github.com/thesanjithkumar)
  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&layout=compact&theme=onedark&langs_count=10)](https://github.com/thesanjithkumar)   -->
- 
-<!-- [![Sanjith's github summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=tokyonight&hide_border=true)](https://github.com/thesanjithkumar) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&layout=compact&theme=onedark&langs_count=10)](https://github.com/thesanjithkumar)  
+<!--  
+[![Sanjith's github summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=tokyonight&hide_border=true)](https://github.com/thesanjithkumar) -->
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=onedark&hide_border=true"  width="500" alt="Sanjith Kumar"/> -->
 
-<!-- [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&layout=compact)](https://github.com/thesanjithkumar)
+[![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&layout=compact)](https://github.com/thesanjithkumar)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=Site-For-Web-Developing&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar/Site-For-Web-Developing) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=Site-For-Web-Developing&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar/Site-For-Web-Developing)
 
 <!-- <p align="center">  -->
 

@@ -41,9 +41,12 @@
 <div align="left">
  
 
- 
-[![wakatime](https://wakatime.com/badge/user/ddf14465-c881-4ebe-ba15-7d5f683686e4.svg)](https://wakatime.com/@ddf14465-c881-4ebe-ba15-7d5f683686e4)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=53137451d&left_color=gray&right_color=blue)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- [![wakatime](https://wakatime.com/badge/user/ddf14465-c881-4ebe-ba15-7d5f683686e4.svg)](https://wakatime.com/@ddf14465-c881-4ebe-ba15-7d5f683686e4)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=53137451d&left_color=gray&right_color=blue) -->
+
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -106,55 +109,7 @@
 
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.75% 
-🌆 Daytime    237 commits    ███████████░░░░░░░░░░░░░░   47.02% 
-🌃 Evening    225 commits    ███████████░░░░░░░░░░░░░░   44.64% 
-🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Tuesday      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
-Wednesday    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
-Thursday     98 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
-Friday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
-Saturday     102 commits    █████░░░░░░░░░░░░░░░░░░░░   20.24% 
-Sunday       130 commits    ██████░░░░░░░░░░░░░░░░░░░   25.79%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               3 hrs 14 mins       █████████████░░░░░░░░░░░░   53.81% 
-CSS                      2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   38.56% 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.72% 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
-
-🐱‍💻 Projects: 
-prithvi-photography      3 hrs 55 mins       ████████████████████████░   98.08% 
-simple-chat-bot          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
-
-```
-
-
- Last Updated on 07/08/2022 12:02:59 UTC
-<!--END_SECTION:waka-->
  </div>
 
 

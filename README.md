@@ -103,7 +103,6 @@
 <!--  ![reversal](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100&height=80) -->
 
 
- </div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2028%20mins-blue)
@@ -154,6 +153,8 @@ simple-chat-bot          4 mins              ░░░░░░░░░░░�
 
  Last Updated on 07/08/2022 11:37:36 UTC
 <!--END_SECTION:waka-->
+ </div>
+
 
 <!---
 thesanjithkumar/thesanjithkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

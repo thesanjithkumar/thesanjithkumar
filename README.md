@@ -38,7 +38,7 @@
   
 ## <img src="./assets/code.gif" width="30"> My Stats
 
-<div align="center">
+<div align="left">
  
 
  

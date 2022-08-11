@@ -103,7 +103,7 @@
 
 <!-- <p align="center">  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark&no-bg=true&column=2&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/thesanjithkumar)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark&no-bg=false&column=2&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/thesanjithkumar)
 
 <!-- </p> -->
   

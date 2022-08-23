@@ -103,8 +103,11 @@
 
 <!-- <p align="center">  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark&no-bg=false&column=2&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/thesanjithkumar)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark&no-bg=false&column=2&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/thesanjithkumar) -->
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+ 
 <!-- </p> -->
   
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=thesanjithkumar&column=4&color=black&rank=S,SS,SSS,A,AA,AAA"> -->

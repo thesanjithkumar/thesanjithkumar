@@ -79,7 +79,7 @@
 <!-- [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar) -->
 
 <codersrank-summary username="thesanjithkumar"></codersrank-summary>
-
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thesanjithkumar"/>
 
  [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar)
 

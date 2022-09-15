@@ -80,7 +80,7 @@
 
 <codersrank-summary username="thesanjithkumar"></codersrank-summary>
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thesanjith&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
  [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar)
 

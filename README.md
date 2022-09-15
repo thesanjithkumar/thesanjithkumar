@@ -1,5 +1,7 @@
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>  -->
 
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js"></script>
 <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='380' margin='100' > 
 
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
@@ -75,6 +77,9 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 
 <!-- [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar) -->
+
+<codersrank-summary username="thesanjithkumar"></codersrank-summary>
+
 
  [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar)
 

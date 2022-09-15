@@ -102,9 +102,7 @@
 
 [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&layout=compact)](https://github.com/thesanjithkumar)
 
- <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thesanjithkumar&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+ [![Sanjith's Codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thesanjithkumar&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)](https://profile.codersrank.io/user/thesanjithkumar)
  
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=Site-For-Web-Developing&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar/Site-For-Web-Developing)

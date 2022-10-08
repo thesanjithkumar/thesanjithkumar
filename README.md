@@ -42,6 +42,7 @@
 
 <div align="center">
  
+ ### Profile Views
  ![Visitor Count](https://profile-counter.glitch.me/{lucifertrj}/count.svg)
  
  [![wakatime](https://wakatime.com/badge/user/ddf14465-c881-4ebe-ba15-7d5f683686e4.svg)](https://wakatime.com/@ddf14465-c881-4ebe-ba15-7d5f683686e4)

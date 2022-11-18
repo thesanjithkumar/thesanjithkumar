@@ -37,12 +37,14 @@
 </p> -->
 <br>
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
-  
+
+ <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='auto' margin='100' > 
+
+ 
 ## <img src="./assets/code.gif" width="30"> My Stats
 
 <div align="center">
 
- <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='auto' margin='100' > 
  
  ### Profile Views
  ![Visitor Count](https://profile-counter.glitch.me/{lucifertrj}/count.svg)

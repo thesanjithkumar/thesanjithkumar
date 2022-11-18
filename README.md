@@ -5,7 +5,7 @@
  <div align="center">
  <div style="display: flex;">
  
- <img align='left' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='500' > 
+ <img align='left' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='aauto' > 
 
  <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='500'  > 
  </div>

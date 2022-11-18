@@ -17,7 +17,7 @@
 ## &nbsp;
 
 
- <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='300'  > 
+ <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='500'  > 
 
 
 - 👀 I’m interested in Web development and Machine Learning

@@ -13,7 +13,7 @@
  -->
 <!--  <h1 align="center" margin="auto"><img src="./assets/Hi.gif" width="40"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1> -->
 
- <br />
+ <p></p>
  
 - 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning AI/ML

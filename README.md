@@ -38,7 +38,7 @@
 <br>
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
 
- <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='auto' margin='100' > 
+ <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='500' margin='100' > 
 
  
 ## <img src="./assets/code.gif" width="30"> My Stats

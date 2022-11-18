@@ -2,9 +2,9 @@
 
 <!-- replace x.x.x with actual version -->
 <!-- <script src="https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js"></script> -->
- <img align='left' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='500' margin='100' > 
+ <img align='left' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='50%' margin='10' > 
 
- <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='500' margin='100' > 
+ <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='50%' margin='10' > 
 
 
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>

@@ -4,7 +4,7 @@
 <!-- <script src="https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js"></script> -->
  <div style="display: flex;">
  
- <img align='left' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='45%' > 
+ <img align='left' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='50%' > 
 
  <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='45%'  > 
 

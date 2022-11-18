@@ -17,13 +17,13 @@
 ## &nbsp;
 
 
- <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='500'  > 
+ <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='300'  > 
 
 
 - 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on web Development 
-- 📫 How to reach me <br>
+- 📫 How to reach me <br/>
 
   <a href="mailto:sanjithkumar048@gmail.com?subject=from_github">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://www.instagram.com/sanjith___kumar">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>

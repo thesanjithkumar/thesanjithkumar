@@ -4,9 +4,9 @@
 <!-- <script src="https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js"></script> -->
  <div style="display: flex;">
  
- <img align='left' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='auto' > 
+ <img align='left' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='40%' > 
 
- <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='auto'  > 
+ <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='40%'  > 
 
 </div>
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>

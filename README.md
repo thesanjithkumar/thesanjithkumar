@@ -42,7 +42,7 @@
 
 <div align="center">
 
- <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='380' margin='100' > 
+ <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='auto' margin='100' > 
  
  ### Profile Views
  ![Visitor Count](https://profile-counter.glitch.me/{lucifertrj}/count.svg)

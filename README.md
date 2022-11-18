@@ -41,6 +41,8 @@
 ## <img src="./assets/code.gif" width="30"> My Stats
 
 <div align="center">
+
+ <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/To my github page.gif' width='380' margin='100' > 
  
  ### Profile Views
  ![Visitor Count](https://profile-counter.glitch.me/{lucifertrj}/count.svg)

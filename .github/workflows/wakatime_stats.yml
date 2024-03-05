@@ -1,0 +1,23 @@
+name: wakatime-stats
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '00 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-waka-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          SHOW_TOTAL: true
+          LANG_COUNT: 4
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SECTION_NAME: WAKADEV

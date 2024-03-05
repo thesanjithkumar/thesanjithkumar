@@ -5,7 +5,7 @@
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
  -->
  <div align="center">
- <h1 align="center" margin="auto"><img src="./assets/Hi.gif" width="40"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
+ <h1 align="center" margin="auto"><img src="./assets/Hi.gif" width="40"> Hi, I’m <a href="https://sanjithkumar.in/">Sanjith Kumar</a></h1>
 </div>
 
  

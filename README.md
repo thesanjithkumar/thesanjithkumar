@@ -104,7 +104,11 @@ JavaScript             42 hrs 30 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:WAKADEV-->
+
+<img src="https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/output/snake.svg" alt="Snake animation" />
+
  </div>
+
  
 [![GitHub Streak](https://github-readme-streak-stats-psi-steel.vercel.app?user=thesanjithkumar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 

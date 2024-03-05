@@ -1,10 +1,12 @@
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>  -->
 
-<img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='380' margin='100' > 
+<!-- <img align='right' src='https://raw.githubusercontent.com/thesanjithkumar/thesanjithkumar/main/assets/ohh.gif' width='380' margin='100' > -->
 
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
  -->
+ <div align="center">
  <h1 align="center" margin="auto"><img src="./assets/Hi.gif" width="40"> Hi, I’m <a href="https://sanjithkumar048.eu.pythonanywhere.com/">Sanjith Kumar</a></h1>
+</div>
 
  
 - 👀 I’m interested in Web development and Machine Learning
@@ -18,7 +20,7 @@
   <a href="https://www.reddit.com/user/Lopsided_Broccoli_34">![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)<a/>
   <a href="https://wa.me/7204645047">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
   <a href="https://telegram.me/SANJITH_KUMAR">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-  
+
 <!---<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> --->
@@ -35,15 +37,12 @@
 </p> -->
 <br>
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
-  
+ <div align="center">
 ## <img src="./assets/code.gif" width="30"> My Stats
 
-<div align="center">
- 
 
  
-[![wakatime](https://wakatime.com/badge/user/ddf14465-c881-4ebe-ba15-7d5f683686e4.svg)](https://wakatime.com/@ddf14465-c881-4ebe-ba15-7d5f683686e4)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=53137451d&left_color=gray&right_color=blue)
+
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -66,32 +65,44 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 
+<!--START_SECTION:wakaStats-->
+<!--END_SECTION:wakaStats-->
+
+
+<!--START_SECTION:WAKADEV-->
+<!--END_SECTION:WAKADEV-->
+ </div>
+ 
+[![GitHub Streak](https://github-readme-streak-stats-psi-steel.vercel.app?user=thesanjithkumar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c2q7z6kma6je0t2ida3kvqt8e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c2q7z6kma6je0t2ida3kvqt8e&redirect=true)
 <!-- [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar) -->
 
- [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar)
+ <!--  [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar) -->
  
 <!-- <a href="https://github.com/thesanjithkumar"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanjithkumar&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" alt="thesanjithkumar" /></p></a> -->
  
- [![GitHub Streak](https://sanjith-github-readme-streak.herokuapp.com?user=thesanjithkumar&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://github.com/thesanjithkumar)
+ <!-- [![GitHub Streak](https://sanjith-github-readme-streak.herokuapp.com?user=thesanjithkumar&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://github.com/thesanjithkumar) -->
  
 <!-- [![Sanjith's github activity graph](https://activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=282c34&color=fad39d&line=8db472&point=e4e4e4&area=true&area_color=df6C72&hide_border=true)](https://github.com/thesanjithkumar) -->
   
- [![Sanjith's github activity graph](https://sanjith-github-activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=282c34&color=fad39d&line=8db472&point=e4e4e4&area=true&area_color=df6C72)](https://github.com/thesanjithkumar)
+ <!-- [![Sanjith's github activity graph](https://sanjith-github-activity-graph.herokuapp.com/graph?username=thesanjithkumar&bg_color=282c34&color=fad39d&line=8db472&point=e4e4e4&area=true&area_color=df6C72)](https://github.com/thesanjithkumar) -->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&layout=compact&theme=onedark&langs_count=10)](https://github.com/thesanjithkumar)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjithkumar&layout=compact&theme=onedark&langs_count=10)](https://github.com/thesanjithkumar)  -->
  
 <!-- [![Sanjith's github summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=tokyonight&hide_border=true)](https://github.com/thesanjithkumar) -->
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesanjithkumar&theme=onedark&hide_border=true"  width="500" alt="Sanjith Kumar"/> -->
 
-[![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&layout=compact)](https://github.com/thesanjithkumar)
+<!-- [![Sanjith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanjithkumar&show_icons=true&theme=onedark&layout=compact)](https://github.com/thesanjithkumar)-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar/react-clone-hennacrafts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=Site-For-Web-Developing&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar/Site-For-Web-Developing)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=react-clone-hennacrafts&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar/react-clone-hennacrafts) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesanjithkumar&repo=Site-For-Web-Developing&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar/Site-For-Web-Developing) -->
 
 <!-- <p align="center">  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thesanjithkumar&theme=onedark&column=2&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/thesanjithkumar)
+
 
 <!-- </p> -->
   
@@ -103,7 +114,7 @@
 <!--  ![reversal](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100&height=80) -->
 
 
- </div>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

@@ -57,6 +57,8 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ![Reactjs](https://img.shields.io/badge/-ReactJs-black?logo=react)
 ![Next JS](https://img.shields.io/badge/NextJs-black?style=flas-square&logo=next.js)
+![GraphQL](https://img.shields.io/badge/GraphQl-black?style=fat-square&logo=graphql)
+![GraphQL](https://img.shields.io/badge/Playwright-black?style=fat-square&logo=playwright)
 ![HTML 5](https://img.shields.io/badge/HTML5-black?logo=html5)
 ![CSS 3](https://img.shields.io/badge/CSS3-black?logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=fat-square&logo=bootstrap)

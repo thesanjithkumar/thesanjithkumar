@@ -38,6 +38,7 @@
 <br>
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
  <div align="center">
+  
 ## <img src="./assets/code.gif" width="30"> My Stats
 
 

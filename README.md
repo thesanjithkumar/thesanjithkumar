@@ -69,7 +69,20 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 
 <!--START_SECTION:wakaStats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%201%20min-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+VS Code                  10 hrs 38 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.09 % 
+Intellijidea             8 hrs 40 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.91 % 
+
+💻 Operating System: 
+Windows                  19 hrs 19 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
 
 
 <!--END_SECTION:wakaStats-->

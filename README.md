@@ -80,7 +80,7 @@
 <!--START_SECTION:WAKADEV-->
 
 ```txt
-From: 08 January 2022 - To: 13 April 2024
+From: 08 January 2022 - To: 14 April 2024
 
 Total Time: 934 hrs 7 mins
 

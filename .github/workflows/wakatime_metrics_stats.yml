@@ -29,7 +29,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
-          SHOW_UPDATED_DATE: "Trues"
+          SHOW_UPDATED_DATE: "True"
           SECTION_NAME: "wakaStats"
           # COMMIT_BY_ME: "False"
           # COMMIT_USERNAME: "thesanjithkumar"

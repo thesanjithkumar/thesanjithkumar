@@ -69,7 +69,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 
 <!--START_SECTION:wakaStats-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-246-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -84,7 +84,6 @@ Windows                  14 hrs 57 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 30/04/2024 07:48:57 UTC
 <!--END_SECTION:wakaStats-->
 
 

@@ -69,8 +69,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 
 <!--START_SECTION:wakaStats-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text

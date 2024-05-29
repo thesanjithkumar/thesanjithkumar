@@ -1,8 +1,8 @@
 name: wakatime-stats
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs at 12:20am IST
+    - cron: '50 18 * * *'
   workflow_dispatch:
 
 jobs:

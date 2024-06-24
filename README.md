@@ -109,7 +109,7 @@ HTML                       45 hrs 22 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![GitHub Streak](https://github-readme-streak-stats-psi-steel.vercel.app?user=thesanjithkumar&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c2q7z6kma6je0t2ida3kvqt8e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c2q7z6kma6je0t2ida3kvqt8e&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=c2q7z6kma6je0t2ida3kvqt8e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=c2q7z6kma6je0t2ida3kvqt8e&redirect=true)
 <!-- [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/thesanjithkumar) -->
 
  <!--  [![Sanjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesanjithkumar&count_private=true&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/thesanjithkumar) -->

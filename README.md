@@ -86,7 +86,7 @@ Windows                  15 hrs 51 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--START_SECTION:WAKADEV-->
 
 ```txt
-From: 08 January 2022 - To: 06 December 2024
+From: 08 January 2022 - To: 07 December 2024
 
 Total Time: 1,753 hrs 26 mins
 

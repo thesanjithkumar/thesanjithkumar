@@ -86,7 +86,7 @@ Windows                  11 hrs 9 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--START_SECTION:WAKADEV-->
 
 ```txt
-From: 08 January 2022 - To: 11 February 2025
+From: 08 January 2022 - To: 12 February 2025
 
 Total Time: 1,907 hrs 28 mins
 

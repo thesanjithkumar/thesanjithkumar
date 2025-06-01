@@ -87,7 +87,7 @@ WSL                      41 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀�
 <!--START_SECTION:WAKADEV-->
 
 ```txt
-From: 08 January 2022 - To: 31 May 2025
+From: 08 January 2022 - To: 01 June 2025
 
 Total Time: 1,202 hrs 59 mins
 

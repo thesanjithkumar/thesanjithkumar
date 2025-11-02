@@ -91,7 +91,7 @@ Linux                    1 hr 45 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:WAKADEV-->
 
 ```txt
-From: 08 January 2022 - To: 01 November 2025
+From: 08 January 2022 - To: 02 November 2025
 
 Total Time: 1,396 hrs 26 mins
 

@@ -78,7 +78,7 @@
 <!--START_SECTION:WAKADEV-->
 
 ```txt
-From: 08 January 2022 - To: 15 November 2025
+From: 08 January 2022 - To: 16 November 2025
 
 Total Time: 1,416 hrs 15 mins
 

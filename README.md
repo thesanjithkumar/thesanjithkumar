@@ -71,6 +71,43 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 
 <!--START_SECTION:wakaStats-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2052%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Claude Code              14 hrs 18 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.08 % 
+VS Code                  10 hrs 20 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.83 % 
+Windsurf                 1 hr 19 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.09 % 
+
+💻 Operating System: 
+Windows                  25 hrs 58 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 hrs 8 mins (89.14%)
+
+✍️ 9,287 lines written by AI, 10 lines written by hand (99.89% AI-written)
+
+🔤 103,115,383 Input Tokens, 982,396 Output Tokens
+
+💵 $504.20 Estimated AI Cost This Week
+
+🧠 151 AI Sessions, 997 AI Prompts
+
+Sonnet                   5,647 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.27 % 
+Opus                     3,881 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.73 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 5,076 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:wakaStats-->
 

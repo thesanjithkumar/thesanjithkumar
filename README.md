@@ -71,40 +71,40 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 
 <!--START_SECTION:wakaStats-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🔥 Editors: 
-Claude Code              16 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.33 % 
-VS Code                  9 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.67 % 
+Claude Code              16 hrs 50 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   65.25 % 
+VS Code                  8 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.75 % 
 
 💻 Operating System: 
-Windows                  26 hrs 8 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  25 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 39 mins (94.31%)
+⏱ AI Coding Time: 24 hrs 28 mins (94.86%)
 
-✍️ 6,568 lines written by AI, 171 lines written by hand (97.46% AI-written)
+✍️ 6,950 lines written by AI, 150 lines written by hand (97.89% AI-written)
 
-🔤 8,662,604 Input Tokens, 892,757 Output Tokens
+🔤 8,433,619 Input Tokens, 946,987 Output Tokens
 
-💵 $119.19 Estimated AI Cost This Week
+💵 $120.43 Estimated AI Cost This Week
 
-🧠 136 AI Sessions, 984 AI Prompts
+🧠 132 AI Sessions, 972 AI Prompts
 
-Opus                     5,607 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.95 % 
-Sonnet                   1,406 lines         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.05 % 
+Opus                     5,607 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.82 % 
+Sonnet                   1,788 lines         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.46% of written lines came from AI
-📚 Verbose Prompter — average 11,566 characters per prompt
+🤖 AI-Driven — 97.89% of written lines came from AI
+📚 Verbose Prompter — average 10,930 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.04% of changed lines were hand-edited
+🚀 High AI Trust — 3.51% of changed lines were hand-edited
 ```
 
 

@@ -71,39 +71,39 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 
 <!--START_SECTION:wakaStats-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-201%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-203%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🔥 Editors: 
-Claude Code              15 hrs 39 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.87 % 
-VS Code                  10 hrs 56 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.13 % 
+VS Code                  22 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.65 % 
+Claude Code              13 hrs 48 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.35 % 
 
 💻 Operating System: 
-Windows                  26 hrs 36 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  36 hrs 1 min        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 55 mins (82.41%)
+⏱ AI Coding Time: 20 hrs 5 mins (55.76%)
 
-✍️ 19,821 lines written by AI, 508 lines written by hand (97.5% AI-written)
+✍️ 24,578 lines written by AI, 1,737 lines written by hand (93.4% AI-written)
 
-🔤 8,679,458 Input Tokens, 1,088,465 Output Tokens
+🔤 7,734,346 Input Tokens, 1,184,753 Output Tokens
 
-💵 $135.42 Estimated AI Cost This Week
+💵 $126.82 Estimated AI Cost This Week
 
-🧠 135 AI Sessions, 1102 AI Prompts
+🧠 121 AI Sessions, 987 AI Prompts
 
-Opus                     19,935 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Opus                     24,682 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.5% of written lines came from AI
-📚 Verbose Prompter — average 13,269 characters per prompt
+🤖 AI-Driven — 93.4% of written lines came from AI
+📚 Verbose Prompter — average 14,247 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.71% of changed lines were hand-edited
+🚀 High AI Trust — 12.25% of changed lines were hand-edited
 ```
 
 

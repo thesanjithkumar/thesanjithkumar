@@ -77,35 +77,34 @@
 
 ```text
 🔥 Editors: 
-Claude Code              34 hrs 20 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.23 % 
-VS Code                  7 hrs 55 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.77 % 
+Claude Code              26 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.25 % 
+VS Code                  8 hrs 16 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.75 % 
 
 💻 Operating System: 
-Windows                  42 hrs 16 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  34 hrs 50 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 17 mins (97.69%)
+⏱ AI Coding Time: 33 hrs 51 mins (97.17%)
 
-✍️ 32,070 lines written by AI, 330 lines written by hand (98.98% AI-written)
+✍️ 14,033 lines written by AI, 337 lines written by hand (97.65% AI-written)
 
-🔤 20,322,078 Input Tokens, 2,992,783 Output Tokens
+🔤 12,505,973 Input Tokens, 1,790,147 Output Tokens
 
-💵 $304.90 Estimated AI Cost This Week
+💵 $216.03 Estimated AI Cost This Week
 
-🧠 222 AI Sessions, 1960 AI Prompts
+🧠 155 AI Sessions, 1515 AI Prompts
 
-Opus                     34,835 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.98 % 
-Sonnet                   6 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.02 % 
+Opus                     16,794 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📚 Verbose Prompter — average 15,702 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 5.33% of changed lines were hand-edited
+🤖 AI-Driven — 97.65% of written lines came from AI
+📚 Verbose Prompter — average 14,282 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 10.49% of changed lines were hand-edited
 ```
 
 

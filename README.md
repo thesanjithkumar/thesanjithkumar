@@ -114,7 +114,7 @@ Sonnet                   43 lines            ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:WAKADEV-->
 
 ```txt
-From: 08 January 2022 - To: 18 September 2026
+From: 08 January 2022 - To: 19 September 2026
 
 Total Time: 1,980 hrs 34 mins
 

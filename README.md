@@ -71,39 +71,39 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=flat-square&logo=netlify)
 
 <!--START_SECTION:wakaStats-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-329%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🔥 Editors: 
-VS Code                  4 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.64 % 
-Claude Code              3 hrs 56 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.36 % 
+Claude Code              4 hrs 41 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.32 % 
+VS Code                  1 hr 53 mins        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.68 % 
 
 💻 Operating System: 
-Windows                  8 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  6 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (91.28%)
+⏱ AI Coding Time: 6 hrs 16 mins (95.16%)
 
-✍️ 2,703 lines written by AI, 33 lines written by hand (98.79% AI-written)
+✍️ 5,459 lines written by AI, 33 lines written by hand (99.4% AI-written)
 
-🔤 5,034,446 Input Tokens, 634,691 Output Tokens
+🔤 6,910,880 Input Tokens, 695,245 Output Tokens
 
-💵 $76.97 Estimated AI Cost This Week
+💵 $89.64 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 994 AI Prompts
+🧠 49 AI Sessions, 949 AI Prompts
 
-Opus                     2,727 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Opus                     5,481 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.79% of written lines came from AI
-📚 Verbose Prompter — average 6,444 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 2.36% of changed lines were hand-edited
+🤖 AI-Driven — 99.4% of written lines came from AI
+📚 Verbose Prompter — average 6,073 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 1.15% of changed lines were hand-edited
 ```
 
 

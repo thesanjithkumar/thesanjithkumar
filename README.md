@@ -73,40 +73,6 @@
 <!--START_SECTION:wakaStats-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-377%20hrs%2017%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-Claude Code              8 hrs 42 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.87 % 
-VS Code                  5 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.13 % 
-
-💻 Operating System: 
-Windows                  14 hrs 32 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 29 mins (99.6%)
-
-✍️ 6,339 lines written by AI, 1 lines written by hand (99.98% AI-written)
-
-🔤 35,643,996 Input Tokens, 1,264,659 Output Tokens
-
-💵 $413.30 Estimated AI Cost This Week
-
-🧠 128 AI Sessions, 1053 AI Prompts
-
-Opus                     6,423 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 5,256 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:wakaStats-->
 
